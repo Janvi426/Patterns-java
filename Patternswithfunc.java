@@ -230,11 +230,6 @@ public class Patternswithfunc {
         // numPyramid(5);
 
         // (11)
-         palindrom(5);
-
-
-
-
-
+        // palindrom(5);
     }
 }
